@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+  }
+
+
+.addUser{
+    background-color: white;
+    width:25%;
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(140, 138, 138);
+    align-content: center;
+}
+
+.addUserForm .inputGroup{
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+}
+
+.addUserForm .inputGroup label{
+      margin-top: 5px ;
+}
+.addUserForm .inputGroup input{
+   margin-bottom: 5px;
+   padding: 10px;
+ 
+}
+.addUserForm .inputGroup button{
+   margin-top: 8px;
+}
+
+.addUser h3{
+   margin-top: 40px;
+   text-align: center;
+   font-weight: bold;
+   color: rgb(31, 31, 31);
+   text-transform: uppercase;
+   text-shadow: 1px 1px 2px rgb(140, 138, 138);
+
+}

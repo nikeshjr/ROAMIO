@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.action-button {
+  text-decoration: none; 
+}
+
+.button{
+  padding-bottom: 10px;
+}
+
+.main-heading {
+  font-family: 'Inter', Helvetica;
+  font-weight: 500;
+  font-size: 4.5rem;
+  color: var(--text-dark);
+  text-align: center;
+  letter-spacing: -2.16px;
+  line-height: 85px;
+}
+
+.button {
+  width: 200px;          /* Equal width */
+  padding: 10px 20px;
+  font-size: 16px;
+  display: inline-flex;  /* Keep icons aligned */
+  align-items: center;
+  justify-content: center;
+  gap: 8px;              /* space between icon and text */
+  background-color: #0066ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
