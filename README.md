@@ -47,53 +47,53 @@ Whether you're planning a weekend getaway or a full-fledged road trip — **Roam
 
 ---
 
-### &nbsp; 01 &nbsp;—&nbsp; Hero Banner
+### &nbsp; 01 &nbsp;—&nbsp; Home Page
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89cb24f4-6141-4467-a942-3b65fe23a542" width="700" />
 </p>
 
-> The landing experience — bold visuals, instant navigation, and a cinematic first impression.
+> The gateway to India's hidden gems — a bold, welcoming landing page that sets the tone for every journey ahead.
 
 ---
 
-### &nbsp; 02 &nbsp;—&nbsp; Explore Destinations
+### &nbsp; 02 &nbsp;—&nbsp; Select State
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79547963-3a61-4d14-ac29-26be7f984590" width="700" />
 </p>
 
-> Browse curated offbeat destinations across India — filtered, sorted, and ready to explore.
+> Start your exploration by choosing a state — every region of India holds a story waiting to be discovered.
 
 ---
 
-### &nbsp; 03 &nbsp;—&nbsp; Destination Details
+### &nbsp; 03 &nbsp;—&nbsp; Select District
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1c360ea-97dc-4f45-9d6d-f0844522562e" width="700" />
 </p>
 
-> Deep-dive into any location — rich descriptions, imagery, and travel insights at a glance.
+> Narrow down your adventure — pick a district and unlock the hidden spots tucked within it.
 
 ---
 
-### &nbsp; 04 &nbsp;—&nbsp; Discovery Feed
+### &nbsp; 04 &nbsp;—&nbsp; Discover Hidden Places
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5129b0e-eb4d-404c-83f0-9da4ea69587e" width="700" />
 </p>
 
-> A curated feed of hidden gems — personalized and ready for your next adventure.
+> The heart of Roamio — a curated list of offbeat destinations filtered to your chosen location, ready to explore.
 
 ---
 
-### &nbsp; 05 &nbsp;—&nbsp; Travel Collection
+### &nbsp; 05 &nbsp;—&nbsp; Add a New Place
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/415b212c-edaf-4310-a9ac-9fe57441add0" width="700" />
 </p>
 
-> Save and revisit your favorite destinations — your personal travel wishlist, built in.
+> Know a hidden gem that's not on the map yet? Contribute to the community and put it on Roamio.
 
 ---
 
