@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d3b1e,1a6b3a,2ecc71&height=160&section=header&text=Roamio&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Discover%20Hidden%20Gems%20Across%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=14&descAlignY=68&descColor=93c5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d3b1e,1a6b3a,2ecc71&height=160&section=header&text=Roamio&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Discover%20Hidden%20Gems%20Across%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=14&descAlignY=68&descColor=a7f3d0" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=520&lines=Full-Stack+MERN+Application;Explore+Offbeat+Destinations+Across+India;Sleek+UI+%2B+Smooth+Experience;Your+Next+Adventure+Starts+Here" alt="Typing SVG" />
 
@@ -19,9 +19,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%E2%97%88%20What%20is%20Roamio%3F-1a3a8f?style=for-the-badge&logoColor=ffffff" />
-
-<br/><br/>
+## &nbsp; What is Roamio?
 
 > *Roamio is a modern MERN stack web application designed to help users uncover offbeat tourist destinations across India. With a sleek, intuitive interface, Roamio delivers a smooth and enjoyable experience for travelers eager to explore beyond the usual tourist spots.*
 
@@ -35,9 +33,9 @@ Whether you're planning a weekend getaway or a full-fledged road trip — **Roam
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%E2%97%88%20Application%20Preview-1a3a8f?style=for-the-badge&logoColor=ffffff" />
+## &nbsp; Application Preview
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -107,9 +105,9 @@ Whether you're planning a weekend getaway or a full-fledged road trip — **Roam
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%E2%97%88%20Tech%20Stack-1a3a8f?style=for-the-badge&logoColor=ffffff" />
+## &nbsp; Tech Stack
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -130,9 +128,9 @@ Whether you're planning a weekend getaway or a full-fledged road trip — **Roam
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%E2%97%88%20Getting%20Started-1a3a8f?style=for-the-badge&logoColor=ffffff" />
+## &nbsp; Getting Started
 
-<br/><br/>
+<br/>
 
 **Prerequisites**
 - Node.js `v18+`
@@ -175,9 +173,9 @@ cd client && npm install && npm run dev
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%E2%97%88%20Author-1a3a8f?style=for-the-badge&logoColor=ffffff" />
+## &nbsp; Author
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=400&lines=Backend+Web+Developer;Building+scalable+MERN+applications;Passionate+about+clean+architecture" alt="Typing SVG" />
 
